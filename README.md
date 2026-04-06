@@ -4,6 +4,16 @@ GraphMind is a **GraphRAG-powered application** that transforms unstructured doc
 
 ---
 
+<img width="1281" height="681" alt="9" src="https://github.com/user-attachments/assets/3480f562-3543-45be-82c6-a44a38fe9bff" />
+<img width="1259" height="766" alt="8" src="https://github.com/user-attachments/assets/ae5c9f21-53af-4e07-9125-6d5895475b22" />
+<img width="1468" height="729" alt="7" src="https://github.com/user-attachments/assets/de4d54a5-24f7-4d8f-8d4c-3d01fd65b83b" />
+<img width="1468" height="803" alt="6" src="https://github.com/user-attachments/assets/2d2aea50-c6df-4218-9f0e-98ab9a41a541" />
+<img width="1470" height="812" alt="5" src="https://github.com/user-attachments/assets/05b0763d-a775-411b-a6e8-405434b4bb73" />
+<img width="1470" height="812" alt="4" src="https://github.com/user-attachments/assets/5b27bc4a-696e-4e79-823a-ea4c9c674c86" />
+<img width="1469" height="809" alt="3" src="https://github.com/user-attachments/assets/4df13c6e-fe7a-4e3b-be42-18301542fa39" />
+<img width="1138" height="523" alt="2" src="https://github.com/user-attachments/assets/a54a4169-5f08-435c-860e-d181f574075b" />
+<img width="1469" height="817" alt="1" src="https://github.com/user-attachments/assets/ca30e418-b9a7-42b0-a23f-25e141d9c818" />
+
 ## 🚀 Features
 
 - 📄 Upload PDF documents  
